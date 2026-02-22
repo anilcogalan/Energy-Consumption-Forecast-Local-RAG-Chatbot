@@ -1,0 +1,18 @@
+# LexGLUE Legal RAG - Bağımlılıklar
+pandas
+numpy
+matplotlib
+seaborn
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+tiktoken
+plotly
+openpyxl
+streamlit>=1.30.0
+requests>=2.31.0
+fpdf2>=2.7.0
+pypdf>=4.0.0
+python-docx>=1.0.0

@@ -1,0 +1,10 @@
+# Gömülü git repo — ayrı proje, üst repoda takip edilmesin
+Household Electric Power Consumption  /
+
+# Yerel LLM projesi — büyük/yerel veri (alt .gitignore root add'de bazen uygulanmıyor)
+Yerel LLM ile Hukuki Metin Analizi/data/
+Yerel LLM ile Hukuki Metin Analizi/chroma_db/
+Yerel LLM ile Hukuki Metin Analizi/.lexglue_conversations.json
+
+# macOS
+.DS_Store
