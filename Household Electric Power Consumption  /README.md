@@ -47,7 +47,7 @@ Uygulama README’deki adımlarla çalıştırılabilir.
 
 **Sayfalar:** Veri Görselleştirme · Tahmin Ekranı · Model Performans
 
-**Önbelleği temizlemek:** Sidebar’da **"🗑️ Önbelleği temizle"** butonuna tıklayın; veya sağ üst menü (⋮) → **Clear cache**. Veri veya model değiştiyse bunu yapın.
+**Önbelleği temizlemek: Sağ üst menü (⋮) → **Clear cache**. Veri veya model değiştiyse bunu yapın.
 
 ---
 
